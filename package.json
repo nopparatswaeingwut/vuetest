@@ -1,5 +1,9 @@
 {
   "dependencies": {
+    "mongoose": "^6.6.5",
     "vue": "^3.2.41"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
   }
 }
